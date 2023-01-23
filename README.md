@@ -26,9 +26,9 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 
 * **NCF**: "Neural Correspondence Field for Object Pose Estimation", *ECCV, 2022*. [[Paper](https://arxiv.org/pdf/2208.00113.pdf)] [[Pytorch Code]( https://github.com/LinHuang17/NCF-code)] [[Webpage](https://linhuang17.github.io/NCF/)]
 
-* **Neural-Sim**: "Learning to Generate Training Data with NeRF", *ECCV 2022*.  [[Paper](https://arxiv.org/pdf/2207.11368.pdf)] [[Pytorch Code](https://github.com/gyhandy/Neural-Sim-NeRF)] [[Webpage](https://fylwen.github.io/disp6d.html)]
+* **Neural-Sim**: "Learning to Generate Training Data with NeRF", *ECCV 2022*.  [[Paper](https://arxiv.org/pdf/2207.11368.pdf)] [[Pytorch Code](https://github.com/gyhandy/Neural-Sim-NeRF)] 
 
-* **DISP6D**: "Disentangled Implicit Shape and Pose Learning for Scalable 6D Pose Estimation", *ECCV 2022*.  [[Paper](https://arxiv.org/pdf/2107.12549.pdf)] [[Pytorch Code](https://github.com/fylwen/DISP-6D)] [[Webpage](https://nerf2nerf.github.io/)] [[Video](https://youtu.be/GTBfCB2A7sI)]
+* **DISP6D**: "Disentangled Implicit Shape and Pose Learning for Scalable 6D Pose Estimation", *ECCV 2022*.  [[Paper](https://arxiv.org/pdf/2107.12549.pdf)] [[Pytorch Code](https://github.com/fylwen/DISP-6D)] [[Webpage](https://fylwen.github.io/disp6d.html)] [[Video](https://youtu.be/GTBfCB2A7sI)]
 
 * **SNAKE**: "SNAKE: Shape-aware Neural 3D Keypoint Field", *NeurIPS, 2022*. [[Paper](https://arxiv.org/abs/2206.01724.pdf)] [[Pytorch Code](https://github.com/zhongcl-thu/SNAKE)]
 
